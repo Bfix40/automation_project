@@ -3,8 +3,6 @@ from os import listdir
 from src.layers.domain.file import File
 
 # * Class meant to manipulate Files
-
-
 class FileService:
 
     def __init__(self) -> None:
